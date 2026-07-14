@@ -1,0 +1,8 @@
+{
+  "name": "StoryMotion Pro",
+  "description": "Production-grade desktop-simulated AI video creation and script-to-animation studio with advanced character rigging, multi-voice timing, interactive storyboard and scene editing, dual timeline, and chunk-by-chunk render pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
